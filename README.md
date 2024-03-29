@@ -29,7 +29,7 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<p align="left">
+<p align="center">
 <a href="https://html.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html5 logo" width="40" height="40"/>
 </a>
@@ -70,6 +70,9 @@
 <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB logo" width="40" height="40"/>
 </a>
 </p>
+<br>
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itssaqlain06&show_icons=true&locale=en&layout=compact" alt="itssaqlain06" /></p>
 
