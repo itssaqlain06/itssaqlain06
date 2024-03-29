@@ -78,6 +78,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itssaqlain06&show_icons=true&locale=en" alt="itssaqlain06" /></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itssaqlain06&" alt="itssaqlain06" />
-
-### 🔝 Top Contributed Repo
-  <img src="https://github-contributor-stats.vercel.app/api?username=itssaqlain06&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
