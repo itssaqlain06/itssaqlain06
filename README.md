@@ -3,9 +3,7 @@
   <img src="https://github.com/itssaqlain06/itssaqlain06/blob/main/banner.png">
 </p>
 <h3 align="center">A passionate Full Stack Developer from Pakistan.</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" alt="Coding">
-</p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssaqlain06&label=Profile%20views&color=0e75b6&style=flat" alt="itssaqlain06" /> </p>
 
@@ -38,10 +36,4 @@
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=itssaqlain06&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</p>
-
-### 📈 My Github Contribution
-
-<p align="center">
-  <img src="https://github.com/itssaqlain06/itssaqlain06/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
