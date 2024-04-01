@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=itssaqlain06&label=Profile%20views&color=0e75b6&style=flat" alt="itssaqlain06" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saqlain+Mushtaq!;" />
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **itssaqlain06@gmail.com**
 - 
-⚡ Fun fact **Fueling innovation one line of code at a time – where backend development is not just a skill, but a passion ignited**
+⚡ Fun fact **Backend coding: Where passion fuels innovation, one line at a time**
 
  </div>
  
