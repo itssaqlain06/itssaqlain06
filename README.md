@@ -36,7 +36,7 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<br/><br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,react,mui,vscode,github" />
     <img src="https://skillicons.dev/icons?i=php,mysql,laravel,nodejs,express" /><br>
@@ -47,7 +47,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <br><br/>
   <img alt="snake eating my contributions" src="https://github.com/itssaqlain06/itssaqlain06/blob/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
@@ -56,7 +56,7 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<br><br/>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=itssaqlain06&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=itssaqlain06&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
