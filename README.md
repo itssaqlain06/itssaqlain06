@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **itssaqlain06@gmail.com**
 - 
-⚡ Fun fact **Backend coding: Where passion fuels innovation, one line at a time**
+⚡ Fun fact **Backend coding: Debugging is like being a detective in a crime movie where you are also the murderer**
 
  </div>
  
@@ -35,7 +35,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
 <br/><br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,react,mui,vscode,github" />
