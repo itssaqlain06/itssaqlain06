@@ -31,6 +31,9 @@
   <a href="https://linkedin.com/in/itssaqlain06" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <a href="https://www.instagram.com/itssaqlain06" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-FF3040?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
 </div>
 
  <hr/>
