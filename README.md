@@ -10,7 +10,7 @@
 
 <div align="center">
  
- - 🔭 I’m currently working on **TaskHub** project.
+ - 🔭 I’m currently working on **Chatify** project.
 
 - 🌱 I’m currently learning **Mern Stack**
 
