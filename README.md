@@ -10,7 +10,7 @@
 
 <div align="center">
  
- - 🔭 I’m currently working on <a target="_blank" href="hoponcars.com">Hopon Cars</a> project.
+ - 🔭 I’m currently working on <a target="_blank" href="https://hoponcars.com/">Hopon Cars</a> project.
 
 - 🌱 I’m currently learning **Mern Stack**
 
