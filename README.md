@@ -19,7 +19,7 @@
 - 💬 Ask me about **Full Stack Web Development**
 
 - 📫 How to reach me **itssaqlain06@gmail.com**
-- 
+
 ⚡ Fun fact **Debugging is like being a detective in a crime movie where you are also the murderer**
 
  </div>
