@@ -9,8 +9,6 @@
 <br/>
 
 <div align="center">
- 
- - 🔭 I’m currently working on <a>Chatify App</a> project.
 
 - 🌱 I’m currently working as **Full Stack Developer**
 
