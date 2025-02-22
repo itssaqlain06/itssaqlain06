@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saqlain+Mushtaq;+I'm+Full+Stack+Engineer;" />
 </h1>
 
-<h3 align="center">A passionate Software Developer from Pakistan.</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan.</h3>
 
 <br/>
 
 <div align="center">
     
-- 🌱 I’m currently working as **Full Stack Developer**
+- 🌱 I’m currently working as **Full Stack Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itssaqlain06](https://github.com/itssaqlain06)
 
